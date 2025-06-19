@@ -27,7 +27,7 @@ When I’m not coding, you’ll find me **riding through countryside roads**, **
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 
 
 ### 🌐 Frontend
@@ -40,12 +40,13 @@ When I’m not coding, you’ll find me **riding through countryside roads**, **
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io)
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
  
 
@@ -66,13 +67,9 @@ When I’m not coding, you’ll find me **riding through countryside roads**, **
 
 ---
 
-## 🔥 Featured Projects
+ 
 > _“Crafted with love, optimized with logic.”_
-
-- 🔐 **AuthFlow** – Role-based authentication system using Next.js, JWT, and PostgreSQL.
-- 📦 **GadgetDeck** – Gadget management dashboard using Redux, Prisma & multilingual support.
-- 🎓 **EduMarket** – Course selling platform with instructor/student/admin portals + SSLCommerz payment.
-- 🧾 **ERP Pro** – Full ERP backend with TypeScript, MongoDB, and scalable architecture.
+ 
 
 Want to see more? Check out [my repositories »](https://github.com/masumrana0?tab=repositories)
 
